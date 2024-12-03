@@ -24,6 +24,7 @@ $ pip install markdown
 <p style="display: inline">
 <img src="https://img.shields.io/badge/-Linux-212121.svg?logo=linux&style=popout">
 <img src="https://img.shields.io/badge/-Python-FFC107.svg?logo=python&style=popout">
+<img src="https://img.shields.io/badge/-Markdown-000000.svg?logo=markdown&style=plastic">
 </p>
 
 &nbsp;
